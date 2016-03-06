@@ -1,0 +1,8 @@
+D:\ThreeGate\ThreeGate\bin\Debug\ThreeGate.exe
+D:\ThreeGate\ThreeGate\bin\Debug\ThreeGate.pdb
+D:\ThreeGate\ThreeGate\obj\Debug\ResolveAssemblyReference.cache
+D:\ThreeGate\ThreeGate\obj\Debug\ThreeGate.Form1.resources
+D:\ThreeGate\ThreeGate\obj\Debug\ThreeGate.Properties.Resources.resources
+D:\ThreeGate\ThreeGate\obj\Debug\ThreeGate.csproj.GenerateResource.Cache
+D:\ThreeGate\ThreeGate\obj\Debug\ThreeGate.exe
+D:\ThreeGate\ThreeGate\obj\Debug\ThreeGate.pdb
